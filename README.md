@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 Here is a full-width preview of the portfolio website:
 
 <div>
-<img src="https://ibb.co.com/0ykrg5V6" alt="Home Page">
+<img src="https://i.ibb.co.com/QvZM20jT/localhost-5173-1.png" alt="Home Page">
 </div>
 
 ---
