@@ -44,8 +44,8 @@ const Skills = () => {
 
       {/* Skills */}
       <div className="w-[334px] mx-auto flex flex-wrap gap-3 justify-center mt-8">
-        {skills.map((skill) => (
-          <div className="p-1 bg-[#251C31] rounded-full">
+        {skills.map((skill, index) => (
+          <div key={index} className="p-1 bg-[#251C31] rounded-full">
             <img className="w-[29px]" src={skill}></img>
           </div>
         ))}
