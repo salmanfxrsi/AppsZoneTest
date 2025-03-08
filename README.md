@@ -1,4 +1,4 @@
-s# Salman Farsi | AppsZone Test
+## Salman Farsi | AppsZone Test
 
 Welcome to my portfolio which I made for AppsZone as a test! They also provide me Figma. This website showcases my work, skills, and experience in web development, featuring various projects I have built using modern web technologies.
 
@@ -34,13 +34,5 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 5. Open [http://localhost:5173](http://localhost:5173) in your browser to view the website.
-
-## 📸 Preview
-
-Here is a full-width preview of the portfolio website:
-
-<div>
-<img src="https://i.ibb.co.com/QvZM20jT/localhost-5173-1.png" alt="Home Page">
-</div>
 
 ---
