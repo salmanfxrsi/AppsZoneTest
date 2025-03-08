@@ -1,12 +1,46 @@
-# React + Vite
+s# Salman Farsi | AppsZone Test 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio which I made for AppsZone as a test! They also provide me Figma. This website showcases my work, skills, and experience in web development, featuring various projects I have built using modern web technologies.  
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This portfolio is built with the following technologies:  
 
-## Expanding the ESLint configuration
+- **React 19** - A JavaScript library for building user interfaces  
+- **React DOM 19** - Manages the DOM rendering  
+- **React Router 7.3** - Enables client-side routing  
+- **React Icons 5.5** - Provides a rich set of icons  
+- **Tailwind CSS 4.0.12** - A utility-first CSS framework for styling  
+- **@tailwindcss/vite 4.0.12** - Tailwind setup with Vite for fast development  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Installation and Setup  
+
+To run this project locally, follow these steps:  
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/salmanfxrsi/AppsZoneTest.git
+   ```
+2. **Navigate to the project folder**  
+   ```sh
+   cd portfolio
+   ```
+3. **Install dependencies**  
+   ```sh
+   npm install
+   ```
+4. **Start the development server**  
+   ```sh
+   npm run dev
+   ```
+5. Open [http://localhost:5173](http://localhost:5173) in your browser to view the website.  
+
+## 📸 Preview  
+
+Here is a full-width preview of the portfolio website:  
+
+![Portfolio Preview](https://ibb.co.com/0ykrg5V6)  
+
+---
+ 
+
