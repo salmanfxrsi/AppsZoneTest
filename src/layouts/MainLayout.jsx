@@ -3,9 +3,9 @@ import Navbar from "../components/shared/Navbar";
 
 const MainLayout = () => {
   return (
-    <div className="min-h-screen bg-[#11071F] font-preahvihear text-white">
+    <div className="min-h-screen font-preahvihear text-white">
       {/* Navbar */}
-      <nav className="bg-[#1A0B2E] font-plus-jakarta-sans">
+      <nav className="fixed top-0 left-0 w-full bg-[#1A0B2E] font-plus-jakarta-sans z-50">
         <Navbar />
       </nav>
 
