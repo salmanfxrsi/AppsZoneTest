@@ -35,7 +35,7 @@ const Navbar = () => {
   );
 
   return (
-    <header className="container mx-auto flex flex-col items-center justify-between gap-2 py-5 md:flex-row md:gap-0">
+    <header className="w-11/12 lg:w-7/12 mx-auto flex flex-col items-center justify-between gap-2 py-5 md:flex-row md:gap-0">
       {/* Logo Section */}
       <div className="h-10 w-10">
         <img

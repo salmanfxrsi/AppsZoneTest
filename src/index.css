@@ -1,7 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Preahvihear&display=swap");
+
+.font-preahvihear {
+  font-family: "Preahvihear", sans-serif;
+}
 
 .font-plus-jakarta-sans {
-    font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.bg-hero {
+  background: radial-gradient(circle, #320F85, #942cf4);
+  width: 200px;
+  height:200px;
+  border-radius: 50%;
+  filter: blur(150px);
+}
+
+.bg-round-effect {
+  background: radial-gradient(circle, #320F8500, #942cf4);
+  width: 625px;
+  height: 700px;
+  border-radius: 50%;
+  filter: blur(150px);
 }
 
 @import "tailwindcss";
