@@ -47,7 +47,7 @@ const Hero = () => {
 
       {/* About Section */}
       <div>
-        <h1 className="text-[50px]">I'm a Software Engineer.</h1>
+        <h1 className="text-[50px]">I'm a Software Engineer.|</h1>
         <div className="flex flex-col lg:flex-row items-center text-[21px]">
           <h5>Currently, I'm a Software Engineer at</h5>
           <div className="text-[#1877F2] flex items-center lg:ml-3 gap-2">

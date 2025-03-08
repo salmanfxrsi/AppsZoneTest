@@ -7,30 +7,30 @@ const Navbar = () => {
       <NavLink to="/" className="hover:text-gray-300" aria-label="Home">
         Home
       </NavLink>
-      <NavLink
-        to="products"
+      <a
+        href="#projects"
         className="hover:text-gray-300"
         aria-label="Products"
       >
         Products
-      </NavLink>
-      <NavLink
-        to="support"
+      </a>
+      <a
+        href="#skills"
         className="hover:text-gray-300"
         aria-label="Support"
       >
         Support
-      </NavLink>
-      <NavLink to="about" className="hover:text-gray-300" aria-label="About">
+      </a>
+      <a href="#hero" className="hover:text-gray-300" aria-label="About">
         About
-      </NavLink>
-      <NavLink
-        to="contact"
+      </a>
+      <a
+        href="#contact"
         className="hover:text-gray-300"
         aria-label="Contact"
       >
         Contact
-      </NavLink>
+      </a>
     </>
   );
 
